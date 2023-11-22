@@ -3,14 +3,16 @@
 >
 >sou estudante de sistemas de informação na universidade federal de lavras 
 >
->estou explorando novas tecnologias e desenvolvendo soluções de software
+>atualmente estou explorando novas tecnologias para desenvolvimento de soluções de software
 
-### 💻 tecnologias e ferramentas 
+
+### 💻 minhas tecnologias e ferramentas 
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
 
 ### 📫 fique à vontade para me contatar
 
@@ -23,5 +25,3 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabricio-smarg&show_icons=true)
 -->
-
-![Snake animation](https://github.com/fabricio-smarg/fabricio-smarg/blob/output/github-contribution-grid-snake.svg)
