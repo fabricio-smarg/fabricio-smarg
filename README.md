@@ -19,9 +19,3 @@
 [![Linkedin](https://img.shields.io/badge/Fabrício%20Alves%20Smargiasse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/fabricio-alves-smargiasse/)
 [![Gmail Badge](https://img.shields.io/badge/zsmarg@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:zsmarg@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/fabricio-smarg?label=follow&style=social)](https://github.com/fabricio-smarg)
-
-<!--
-### ⭐ minha conta GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabricio-smarg&show_icons=true)
--->
