@@ -6,7 +6,7 @@
 >atualmente estou explorando novas tecnologias para desenvolvimento de soluções de software
 
 
-### 💻 minhas tecnologias e ferramentas 
+### 💻 minhas tecnologias
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
