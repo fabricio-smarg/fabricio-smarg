@@ -1,7 +1,7 @@
 # eai, tudo certinho? seja muito bem vindo! 
 >meu nome é fabrício alves smargiasse
 >
->sou estudante de sistemas de informação na universidade federal de lavras 
+>sou graduando de sistemas de informação na universidade federal de lavras 
 >
 >atualmente estou explorando novas tecnologias para desenvolvimento de soluções de software
 
