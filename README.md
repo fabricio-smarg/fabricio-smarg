@@ -3,7 +3,7 @@
 >
 >sou graduando de sistemas de informação na universidade federal de lavras 
 >
->atualmente estou explorando novas tecnologias para desenvolvimento de soluções de software
+>atualmente sou desenvolvedor analista na empresa Everymind
 
 
 ### 💻 minhas tecnologias
