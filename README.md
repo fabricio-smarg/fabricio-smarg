@@ -3,7 +3,7 @@
 >
 >sou graduando de sistemas de informação na universidade federal de lavras 
 >
->atualmente sou desenvolvedor analista salesforce na empresa everymind
+>atualmente sou analista desenvolvedor salesforce na empresa everymind
 >
 >no meu tempo livre busco aprofundar meu conhecimento em apex e javascript  
 
