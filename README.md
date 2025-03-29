@@ -1,7 +1,7 @@
 # eai, tudo certinho? seja muito bem vindo! 
 >meu nome é fabrício alves smargiasse
 >
->sou graduando de sistemas de informação na universidade federal de lavras 
+>sou bacharel em sistemas de informação pela universidade federal de lavras 
 >
 >atualmente sou analista desenvolvedor salesforce na empresa everymind
 >
