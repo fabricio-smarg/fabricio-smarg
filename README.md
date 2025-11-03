@@ -1,14 +1,12 @@
-# eai, tudo certinho? seja muito bem vindo! 
->meu nome é fabrício alves smargiasse
+# Hi there! Welcome! 
+> My name is Fabrício Alves Smargiasse.
 >
->sou bacharel em sistemas de informação pela universidade federal de lavras 
+> I have a Bachelor's degree in Information Systems from the Federal University of Lavras.
 >
->atualmente sou analista desenvolvedor salesforce na empresa everymind
->
->no meu tempo livre busco aprofundar meu conhecimento em apex e javascript  
+> Currently, I work as a Salesforce Developer Analyst at Everymind.
 
 
-### 💻 minhas tecnologias
+### 💻 My Technologies
 
 ![Apex](https://img.shields.io/badge/-Apex-333333?style=flat&logo=Salesforce)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -19,7 +17,7 @@
 
 
 
-### 📫 fique à vontade para me contatar
+### 📫 Feel free to reach out
 [![Salesforce Trailblazer](https://img.shields.io/badge/Salesforce%20Trailblazer%20-white?style=flat&logo=salesforce&logoColor=blue&link=https%3A%2F%2Fwww.salesforce.com%2Ftrailblazer%2Ffabricio-smarg)](https://www.salesforce.com/trailblazer/fabricio-smarg/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffabricio-alves-smargiasse%2F)](https://www.linkedin.com/in/fabricio-alves-smargiasse/)
 [![GitHub](https://img.shields.io/github/followers/fabricio-smarg?label=follow&style=social)](https://github.com/fabricio-smarg)
