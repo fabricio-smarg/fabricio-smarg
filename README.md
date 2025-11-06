@@ -19,5 +19,12 @@
 
 ### 📫 Feel free to reach out
 [![Salesforce Trailblazer](https://img.shields.io/badge/Salesforce%20Trailblazer%20-white?style=flat&logo=salesforce&logoColor=blue&link=https%3A%2F%2Fwww.salesforce.com%2Ftrailblazer%2Ffabricio-smarg)](https://www.salesforce.com/trailblazer/fabricio-smarg/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffabricio-alves-smargiasse%2F)](https://www.linkedin.com/in/fabricio-alves-smargiasse/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=inspire&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffabricio-alves-smargiasse%2F)](https://www.linkedin.com/in/fabricio-alves-smargiasse/)
+[![Beecrowd](https://img.shields.io/badge/beecrowd-purple?style=flat&logo=bakalari&logoColor=yellow&link=https://judge.beecrowd.com/pt/profile/614111)](https://judge.beecrowd.com/pt/profile/614111)
 [![GitHub](https://img.shields.io/github/followers/fabricio-smarg?label=follow&style=social)](https://github.com/fabricio-smarg)
+
+
+
+
+
+
